@@ -5,7 +5,7 @@ This repository contains a proof-of-concept point of sale system.
 ## Structure
 
 - `backend` - ASP.NET Core Web API using Entity Framework Core and MySQL
-- `frontend` - minimal React client with Tailwind CSS
+- `frontend` - minimal React client with Tailwind CSS and basic routing
 
 ## Development
 
